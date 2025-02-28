@@ -2,6 +2,7 @@
 <h3 align="center">🚀 Passionate Developer | Cybersecurity Enthusiast | Always Learning</h3>
 
 - 🌱 I’m currently learning **cybersecurity, php and networks**
+- 👯 Work well in groups
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
