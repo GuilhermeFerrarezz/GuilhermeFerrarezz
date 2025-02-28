@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Guilherme Ferrarez</h1>
 <h3 align="center">🚀 Passionate Developer | Cybersecurity Enthusiast | Always Learning</h3>
-
+- 📝 Studying systems development at **IF SUDESTE MG**
 - 🌱 I’m currently learning **cybersecurity, php and networks**
-- 👯 Work well in groups
-
+- 👨‍💻 Good at solving **issues**
+- 🤝 I’m looking for help with learning **cybersecurity**
+- 👯 Work well in **groups**
+- 💬 Algorithms Monitor at **IF SUDESTE MG**
+- ⚡ 🇧🇷 **Portuguese** (Native)
+- ⚡ 🇬🇧 **English** (Intermediate - B2)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/elking7962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elking7962" height="30" width="40" /></a>
