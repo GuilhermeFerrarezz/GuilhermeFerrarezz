@@ -52,7 +52,6 @@
 - **OWASP ZAP**  
 - **Hydra**  
 - **SQLMap**  
-- [Other Tools You Use]
 
 ### **Connect with me:**
 <p align="left">
