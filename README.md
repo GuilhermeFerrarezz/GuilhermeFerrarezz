@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guilherme Ferrarez
+# 👋 I'm Guilherme Ferrarez
 ## 🚀 Passionate Developer | Cybersecurity Enthusiast | Always Learning
 
 - 📝 Studying systems development at **IF SUDESTE MG**  
@@ -10,7 +10,7 @@
 - ⚡ 🇧🇷 **Portuguese** (Native)  
 - ⚡ 🇬🇧 **English** (Intermediate - B2)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -44,7 +44,7 @@
   </a> 
 </p>
 
-<h3 align="left">My Cybersecurity Toolkit:</h3>
+<h3 align="left"><b>My Cybersecurity Toolkit:</b></h3>
 <p align="left">
   - **Kali Linux**  
   - **Nmap**  
@@ -56,7 +56,7 @@
   - [Other Tools You Use]
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
   <a href="https://discord.gg/elking7962" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elking7962" height="30" width="40" />
