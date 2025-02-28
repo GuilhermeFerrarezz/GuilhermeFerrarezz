@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guilherme Ferrarez</h1>
 <h3 align="center">🚀 Passionate Developer | Cybersecurity Enthusiast | Always Learning</h3>
-- 📝 Studying systems development at **IF SUDESTE MG**
-- 🌱 I’m currently learning **cybersecurity, php and networks**
-- 👨‍💻 Good at solving **issues**
-- 🤝 I’m looking for help with learning **cybersecurity**
-- 👯 Work well in **groups**
-- 💬 Algorithms Monitor at **IF SUDESTE MG**
-- ⚡ 🇧🇷 **Portuguese** (Native)
-- ⚡ 🇬🇧 **English** (Intermediate - B2)
+- 📝 Studying systems development at **IF SUDESTE MG** </br>
+- 🌱 I’m currently learning **cybersecurity, php and networks** </br>
+- 👨‍💻 Good at solving **issues** </br>
+- 🤝 I’m looking for help with learning **cybersecurity** </br>
+- 👯 Work well in **groups** </br>
+- 💬 Algorithms Monitor at **IF SUDESTE MG** </br>
+- ⚡ 🇧🇷 **Portuguese** (Native) </br>
+- ⚡ 🇬🇧 **English** (Intermediate - B2) </br>
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
