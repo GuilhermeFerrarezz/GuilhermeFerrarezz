@@ -1,8 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Guilherme Ferrarez</h1>
 <h3 align="center">🚀 Passionate Developer | Cybersecurity Enthusiast | Always Learning</h3>
-
-- 🌱 I’m currently learning **cybersecurity and php**
+-  🇧🇷 **Portuguese** (Native)
+-  🇬🇧 **English** (Intermediate - B2)
+## 📚 Skills  
+- Web Development  
+- Cybersecurity  
+- Python
+- Linux
+- Nodejs
+- SQL
+## 🌱 Currently Learning
+- PHP
+- Cybersecurity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
