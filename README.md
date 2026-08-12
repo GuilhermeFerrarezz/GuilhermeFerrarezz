@@ -8,7 +8,7 @@
 - 👯 Work well in **groups**  
 - 💬 Algorithms Monitor at **IF SUDESTE MG**  
 - ⚡ 🇧🇷 **Portuguese** (Native)  
-- ⚡ 🇬🇧 **English** (Intermediate - B2)
+- ⚡ 🇬🇧 **English** (Advanced - C1)
 
 
 <h3 align="left">Languages and Tools:</h3>
