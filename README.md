@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guilherme Ferrarez</h1>
 <h3 align="center">🚀 Passionate Developer |Backend and Cybersecurity Enthusiast | Always Learning</h3>
 
-- 📝 Systems development at **IF SUDESTE MG**  
+- 📝 Systems development at **IF SUDESTE MG**
+- 📝 Computer Science at **UFJF**
 - 🌱 I’m currently learning **typeScript, cybersecurity, networks and Java**
 - 👨‍💻 Good at solving **issues**  
 - 🤝 I’m looking for help with learning **Java**  
